@@ -22,4 +22,5 @@ Logged in using google: ${loggedInUsingGoodle}
 Logged in using Fb: ${loggedInUsingFb}
 
 `)
+
  
